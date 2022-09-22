@@ -1,0 +1,11 @@
+Package: minidplyr
+Title: Calculation of basic fetal and obstetric measurements 
+Version: 0.0.1
+Authors@R: 
+    person("Julie", "Vendelbo", , email = "jhv@clin.au.dk", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
